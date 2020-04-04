@@ -19,3 +19,4 @@ class String
     self_counted = new_self.count 
     return self_counted
   end
+  
