@@ -20,3 +20,4 @@ class String
     return self_counted
   end
   
+end
